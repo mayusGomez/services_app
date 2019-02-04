@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2019-02-01T23:29:40.235271",
+  "title": "Recomendados",
+  "@title": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  }
+}
